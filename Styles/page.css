@@ -1,0 +1,24 @@
+body{
+    font-size: x-large;
+}
+
+img {
+   
+    margin: 0 auto;
+    max-width: 200px;}
+
+.logo {max-width: 500px;
+
+}
+.imagen_principal { max-width: 1000px;
+    height: 1200px
+}
+.card-img {max-width: 9000px;
+    height: 800px
+
+}
+
+.ulti{ max-width: 1000px;
+    height: 1200px
+
+}
